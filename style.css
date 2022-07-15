@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: hsl(174, 100%, 94%);
+}
+
+.attribution{
+    width: 20rem;
+    height: 30rem;
+    background-color: white;
+    position: relative;
+    top:7rem;
+    border-radius: 15px;
+}
+
+.qr{
+    width: 13rem;
+    border-radius: 12px;
+    position: relative;
+    top: 40px;
+}
+
+.p1{
+    font-size: 21px;
+    font-family: 'Outfit', sans-serif;
+    padding: 80px 30px 0px 30px;
+}
+
+.p2{
+    font-size: 14px;
+    font-family: 'Outfit', sans-serif;
+    padding: 20px 30px 0px 30px;
+    color: hsl(0, 0%, 43%);
+}
+
+.attr{
+    width: 18rem;
+    height: 16rem;
+    background-color: rgb(135, 255, 243);
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    border-radius: 12px;
+}
